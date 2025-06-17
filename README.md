@@ -13,7 +13,7 @@ This Kotlin library provides a robust implementation for validating and handling
 - **Exception Handling**: Throws `InvalidCPFException` for invalid CPF inputs.
 
 ## Installation
-1. Add the library to your project by including the source file.
+1. Add the library to your project by including the `CPF.kt` file.
 2. Ensure you have `kotlinx.serialization` in your project dependencies:
    ```kotlin
    // build.gradle.kts
